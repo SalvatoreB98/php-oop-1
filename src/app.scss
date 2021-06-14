@@ -1,4 +1,23 @@
+$primaryColor : #11161a;
+$secondaryColor: #c4d1db;
 
-body{
 
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+body{
+    background-color: $primaryColor;
+    color: $secondaryColor;
+}
+.flex{
+    display: flex;
+    img{
+        width: 200px;
+        height: auto;
+    }
+}
+@for $i from 1 through 3 {
+    .padding-#{$i}{
+      padding: #{$i}em;
+    }
+  }

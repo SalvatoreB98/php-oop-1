@@ -12,7 +12,7 @@ $movies = [
             "director" => "Tim Burton",
             "actors" => "Alec Baldwin, Geena Davis, Annie McEnroe, Maurice Page",
             "plot" => "A couple of recently deceased ghosts contract the services of a \"bio-exorcist\" in order to remove the obnoxious new owners of their house.",
-            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwODE3MDE0MV5BMl5BanBnXkFtZTgwNTk1MjI4MzE@._V1_SX300.jpg"
+            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/I/512BZC1Z90L._SY445_.jpg"
         ],
         [
             "id" => 2,
@@ -41,7 +41,7 @@ $movies = [
             "director" => "Frank Darabont",
             "actors" => "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
             "plot" => "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX300.jpg"
+            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/I/519NBNHX5BL._SY445_.jpg"
         ],
         [
             "id" => 4,
@@ -70,7 +70,7 @@ $movies = [
             "director" => "Bryan Singer",
             "actors" => "Tom Cruise, Kenneth Branagh, Bill Nighy, Tom Wilkinson",
             "plot" => "A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.",
-            "posterUrl" => "http =>//ia.media-imdb.com/images/M/MV5BMTg3Njc2ODEyN15BMl5BanBnXkFtZTcwNTAwMzc3NA@@._V1_SX300.jpg"
+            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/27c0b69ad47a6e6bce08676164e0d3b71dc78778d6fc17f6ec0ad96d30d90d96._RI_V_TTW_.jpg"
         ],
         [
             "id" => 6,
@@ -113,7 +113,7 @@ $movies = [
             "director" => "Christopher Nolan",
             "actors" => "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
             "plot" => "A man juggles searching for his wife's murderer and keeping his short-term memory loss from being an obstacle.",
-            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/M/MV5BNThiYjM3MzktMDg3Yy00ZWQ3LTk3YWEtN2M0YmNmNWEwYTE3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+            "posterUrl" => "https://i.pinimg.com/originals/1c/55/b2/1c55b2422f791687ead047411b67d17d.jpg"
         ],
         [
             "id" => 9,
@@ -128,7 +128,7 @@ $movies = [
             "director" => "Olivier Nakache, Eric Toledano",
             "actors" => "François Cluzet, Omar Sy, Anne Le Ny, Audrey Fleurot",
             "plot" => "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
-            "posterUrl" => "http =>//ia.media-imdb.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg"
+            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/I/51enzPOzZhL._AC_.jpg"
         ],
         [
             "id" => 10,
@@ -172,7 +172,7 @@ $movies = [
             "director" => "Martin Scorsese",
             "actors" => "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
             "plot" => "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
-            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+            "posterUrl" => "https://images-na.ssl-images-amazon.com/images/I/71bC-27PaHL._AC_SY741_.jpg"
         ],
         [
             "id" => 13,
@@ -202,7 +202,7 @@ $movies = [
             "director" => "Jorge Blanco, Javier Abad, Marcos Martínez",
             "actors" => "Jessica Biel, John Cleese, Gary Oldman, Dwayne Johnson",
             "plot" => "An alien civilization is invaded by Astronaut Chuck Baker, who believes that the planet was uninhabited. Wanted by the military, Baker must get back to his ship before it goes into orbit without him.",
-            "posterUrl" => "http =>//ia.media-imdb.com/images/M/MV5BMTUyOTAyNTA5Ml5BMl5BanBnXkFtZTcwODU2OTM0Mg@@._V1_SX300.jpg"
+            "posterUrl" => "https://ia.media-imdb.com/images/M/MV5BMTUyOTAyNTA5Ml5BMl5BanBnXkFtZTcwODU2OTM0Mg@@._V1_SX300.jpg"
         ],
         [
             "id" => 15,
@@ -217,7 +217,7 @@ $movies = [
             "director" => "Rian Johnson",
             "actors" => "Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano",
             "plot" => "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
-            "posterUrl" => "http =>//ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@._V1_SX300.jpg"
+            "posterUrl" => "https://ia.media-imdb.com/images/M/MV5BMTY3NTY0MjEwNV5BMl5BanBnXkFtZTcwNTE3NDA1OA@@._V1_SX300.jpg"
         ],
         [
             "id" => 16,
@@ -232,7 +232,7 @@ $movies = [
             "director" => "Tim Burton, Mike Johnson",
             "actors" => "Johnny Depp, Helena Bonham Carter, Emily Watson, Tracey Ullman",
             "plot" => "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.",
-            "posterUrl" => "http =>//ia.media-imdb.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg"
+            "posterUrl" => "https://ia.media-imdb.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg"
         ],
         [
             "id" => 17,

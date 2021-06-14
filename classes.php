@@ -14,6 +14,7 @@ class Movie {
         $this->genres = $data["genres"] ;
         $this->actors  = $data["actors"];
         $this->poster = $data["posterUrl"] ;
+        $this->director = $data["director"];
     }
     function getTitle(){
         return $this->title;

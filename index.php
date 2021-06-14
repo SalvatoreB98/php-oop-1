@@ -14,18 +14,20 @@ include 'data.php';
 </head>
 
 <body>
+    <h1></h1>
     <?php
     foreach ($movies as $key => $data) {
         $movie = new Movie($data); ?>
-        <div class="flex">
+        <div class="flex padding-1">
             <?php
             ?>
-            
+            <img src="<?php echo $movie->poster ?>" alt="">
             <?php
-            echo "<div>";
+            echo "<div class='padding-1'>";
             echo "<h2>" . $movie->title . "</h2>";
             echo "<p>" . $movie->description . "</p>";
             echo "<div>" . $movie->year . "</div>";
+            echo "<div>" . $movie->director . "</div>";
             if ($key == "genres") {
                 foreach ($movie->genres as $genre) {
                     echo "<a href='#'>" .  $genre . "</a>";

@@ -1,1 +1,28 @@
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
 
+body {
+  background-color: #11161a;
+  color: #c4d1db;
+}
+
+.flex {
+  display: flex;
+}
+.flex img {
+  width: 200px;
+  height: auto;
+}
+
+.padding-1 {
+  padding: 1em;
+}
+
+.padding-2 {
+  padding: 2em;
+}
+
+.padding-3 {
+  padding: 3em;
+}
