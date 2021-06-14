@@ -28,10 +28,8 @@ include 'data.php';
             echo "<p>" . $movie->description . "</p>";
             echo "<div>" . $movie->year . "</div>";
             echo "<div>" . $movie->director . "</div>";
-            if ($key == "genres") {
-                foreach ($movie->genres as $genre) {
-                    echo "<a href='#'>" .  $genre . "</a>";
-                }
+            foreach ($movie->genres as $genre) {
+                echo "<a href='#'>" .  $genre . "</a>";
             }
             echo "</div>";
             ?>

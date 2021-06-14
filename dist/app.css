@@ -4,10 +4,26 @@ html {
 
 body {
   background-color: #11161a;
-  color: #c4d1db;
+  color: #dfeefa;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 2em;
+}
+
+a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+a:visited {
+  color: white;
 }
 
 .flex {
+  margin-top: 100px;
   display: flex;
 }
 .flex img {
@@ -25,4 +41,11 @@ body {
 
 .padding-3 {
   padding: 3em;
+}
+
+@media screen and (max-width: 600px) {
+  .flex {
+    flex-direction: column;
+    align-items: center;
+  }
 }
